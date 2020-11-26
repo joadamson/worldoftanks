@@ -18,10 +18,10 @@ body {
 }
 
 .banner {
-    width: 95%;
+    width: 96%;
     height: 10vh;
     margin: 58px 0px;
-    padding: 0px 30px;
+    padding: 0px 25px;
     display: inline-flex;
     background-color: rgba(255, 94, 0, 0.4);
 }
