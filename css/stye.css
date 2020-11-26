@@ -18,7 +18,7 @@ body {
 }
 
 .banner {
-    width: 96%;
+    width: 95%;
     height: 10vh;
     margin: 58px 0px;
     padding: 0px 30px;
@@ -259,7 +259,7 @@ body {
 
 .policies {
     margin-top: 2%;
-    margin-left: 52%;
+    margin-left: 50%;
     font-size: 18px;
     color: #fff;
 }
