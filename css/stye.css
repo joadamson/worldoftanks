@@ -20,8 +20,8 @@ body {
 .banner {
     width: 96%;
     height: 10vh;
-    margin: 58px 0px;
-    padding: 0px 25px;
+    margin: 50px 0px;
+    padding: 0px 27px;
     display: inline-flex;
     background-color: rgba(255, 94, 0, 0.4);
 }
