@@ -20,7 +20,7 @@ body {
 .banner {
     width: 96%;
     height: 10vh;
-    margin: 30px 0px;
+    margin: 50px 0px;
     padding: 0px 27px;
     display: inline-flex;
     background-color: rgba(255, 94, 0, 0.4);
@@ -263,4 +263,80 @@ body {
     text-decoration: underline;
     color: #444444;
     transition: .5s;
+}
+
+@media screen and (max-width: 1340px) {
+    .banner_right {
+        margin-left: 36%;
+    }
+}
+
+@media screen and (max-width: 1260px) {
+    .banner_right {
+        margin-left: 32%;
+    }
+}
+
+@media screen and (max-width: 1220px) {
+    .policies {
+        margin-left: 46%;
+    }
+}
+
+@media screen and (max-width: 1190px) {
+    .banner_right {
+        margin-left: 28%;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .banner_right {
+        display: none;
+    }
+
+    .policies {
+        margin-left: 42%;
+    }
+
+    .banner {
+        width: 94%;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    .banner {
+        width: 92%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .banner {
+        width: 91%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .banner {
+        width: 89%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .banner {
+        width: 88%;
+    }
+    
+    .policies {
+        display: none;
+    }
+
+    .title {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .banner {
+        width: 85%;
+    }
 }
