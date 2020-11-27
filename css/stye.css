@@ -129,48 +129,38 @@ body {
 }
 
 .photo1 {
-    width: 32%;
-    height: 35vh;
     background: url('../img/3.jpg') center / cover no-repeat;
     z-index: 4;
 }
 
 .photo2 {
-    width: 32%;
-    height: 35vh;
     background: url('../img/4.jpg') center / cover no-repeat;
     z-index: 5;
 }
 
 .photo3 {
-    width: 32%;
-    height: 35vh;
     background: url('../img/5.jpg') center / cover no-repeat;
     z-index: 6;
 }
 
 .photo4 {
-    width: 32%;
-    height: 35vh;
     background: url('../img/6.jpg') center / cover no-repeat;
     z-index: 7;
 }
 
 .photo5 {
-    width: 32%;
-    height: 35vh;
     background: url('../img/7.jpg') center / cover no-repeat;
     z-index: 8;
 }
 
 .photo6 {
-    width: 32%;
-    height: 35vh;
     background: url('../img/8.jpg') center / cover no-repeat;
     z-index: 9;
 }
 
 .photo {
+    width: 32%;
+    height: 35vh;
     border: 1px solid #ff4500;
     margin: 35px 0px;
     position: relative;
@@ -178,7 +168,7 @@ body {
 
 .download {
     position: absolute;
-    left: 43%;
+    left: 41%;
     top: 40%;
     padding: 8px 15px;
     background-color: rgba(0, 0, 0, .3);
